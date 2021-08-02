@@ -1,0 +1,6 @@
+flask[async]
+sqlalchemy
+aiosqlite
+bcrypt
+cryptography
+asyncio
